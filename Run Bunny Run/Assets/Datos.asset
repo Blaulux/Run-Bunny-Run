@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01cb5453dd5464a40880ba7dbe6224c5, type: 3}
+  m_Name: Datos
+  m_EditorClassIdentifier: 
+  userName: 
+  coins: 0
+  whiteBunny: 0
+  Bunny: 1
+  wBunny: {fileID: 7057126290545846225, guid: a5d1f2f7ca76bf64ab1dab074b4d6c9d, type: 3}
+  BBunny: {fileID: 3164542892051549745, guid: ef87930a6dbcf4e4791ff1fffeaaa2aa, type: 3}
+  playingWith: {fileID: 0}
